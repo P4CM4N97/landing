@@ -1,0 +1,87 @@
+.banner{
+    background-image: url("../../images/background.png");
+    background-size: cover;
+    background-position: right;
+    height: 600px;
+    color: white;
+}
+
+.titulo {
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 100px;
+    
+}
+
+.titulo h1 {
+    font-size: 35px;
+}
+
+.titulo p {
+    font-size: 20px;
+    color: lightgray;
+    margin-bottom: 35px;
+    
+    
+}
+
+.titulo a{
+    background-color: #1EDD88;
+    padding: 18px 25px;
+    border-radius: 35px;
+    color: white;
+       
+}
+
+.titulo-hiw {
+    text-align: center;
+    font-size: 40px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.card {
+     text-align: center;
+    padding: 35px;
+    width: 250px;    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 45px;
+    
+}
+
+.icon {
+    height: 150px;
+}
+
+.footer {
+    background-color: #2c2b2b;
+    height: 250px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+i {
+    color: #1EDD88;
+    font-size: 30px;
+    padding: 8px;   
+}
+
+p {
+    color: lightgray;
+    font-size: 20px;
+}
+
+.corazon {
+    color: red;
+    font-size: 25px;
+}
+
+
+
+
+
